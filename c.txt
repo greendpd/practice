@@ -1,2 +1,4 @@
 c first touch
 c still same commit
+
+c commit 2 on a 2-deep branch
